@@ -1,2 +1,2 @@
-# pyqt5-demos
-Demos de productos de datos en pyqt5
+# Demos de productos de datos en PyQt5 
+
